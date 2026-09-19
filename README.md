@@ -50,7 +50,7 @@ git clone https://github.com/feDaher/eco_ponto_web.git
 4. Entre na pasta do projeto que acabou de ser criada:
 
 ```bash
-cd ecoponto-web
+cd eco_ponto_web
 ```
 
 > Se preferir, pode dar outro nome à pasta local: `git clone <url> nome-que-eu-quiser`.
